@@ -1,0 +1,3 @@
+{
+  "presets": ["react", "vnc", "stage-2"]
+}
